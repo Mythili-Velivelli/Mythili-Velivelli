@@ -11,23 +11,15 @@ Hey there! I'm Mythili, currently pursuing my Master's in Computer Applications.
 This README is a quick snapshot of my skills, projects, and interests!
 
 ---
+## 🚀 Skills & Interests
 
-## 🚀 Skills & Tools
-
-### 💻 Programming Languages
-- Java (Advanced), JavaScript, Python, C++, HTML, CSS
-
-### 🧠 Data Structures & Algorithms
-- Currently learning through GeeksforGeeks DSA to Development course
-
-### 🛠️ Tools & Technologies
-- Node.js, Express.js, React.js, PostgreSQL, Git & GitHub, VS Code, Postman
-
-### 🔧 Developer Skills
-- Frontend + Backend integration  
-- REST APIs  
-- Hosting on Render & GitHub Pages  
-- Version Control with Git
+💻 **Programming Languages**: Java (Advanced), JavaScript, Python, C++, HTML, CSS  
+📚 **Frameworks/Libraries**: Node.js, Express.js, React, EJS  
+🗄️ **Databases**: PostgreSQL
+🧩 **Data Structures & Algorithms**: Practicing through GeeksforGeeks DSA course  
+🛠️ **Developer Tools**: Git & GitHub, VS Code, Postman, Render 
+🎓 **Academic Coursework**: Data Structures, Operating Systems, DBMS, OOP  
+🎯 **Interests**: Web development, UI/UX, open-source learning
 
 ---
 
@@ -49,7 +41,6 @@ A simple, two-player game with sound effects and win/draw detection. Built entir
 🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/TicTacToe)
 
 ---
-
 <!--### 🌦️ Live Weather App
 Search for any city and get real-time weather data with icons and temperature.
 
@@ -64,17 +55,10 @@ Track income and expenses with a clean, responsive UI.
 **Tech:** HTML, CSS, JavaScript  
 🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/ExpenseTracker)-->
 
----
-
 ## 📬 Let’s Connect!
 
 - 🔗 GitHub: [Mythili-Velivelli](https://github.com/Mythili-Velivelli)  
 - 💼 LinkedIn: [Mythili Velivelli](https://www.linkedin.com/in/mythili-velivelli)  
 - 📧 Email: mythilivelivelli@example.com *(update with your real email if you want)*
 
----
-
-> “I believe in consistent growth — even a small step every day leads to big change.”
-
----
 
