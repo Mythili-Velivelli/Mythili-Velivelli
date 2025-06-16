@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hi, I'm Mythili Velivelli
 
-<!--
-**Mythili-Velivelli/Mythili-Velivelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Full-Stack Developer | 🎯 Building Projects One Step at a Time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+Hey there! I'm Mythili, currently pursuing my Master's in Computer Applications. I’m passionate about creating dynamic and interactive web applications, and I enjoy building things that help people stay productive and inspired.
+
+This README is a quick snapshot of my skills, projects, and interests!
+
+---
+
+## 🚀 Skills & Tools
+
+### 💻 Programming Languages
+- Java (Advanced), JavaScript, Python, C++, HTML, CSS
+
+### 🧠 Data Structures & Algorithms
+- Currently learning through GeeksforGeeks DSA to Development course
+
+### 🛠️ Tools & Technologies
+- Node.js, Express.js, React.js, PostgreSQL, Git & GitHub, VS Code, Postman
+
+### 🔧 Developer Skills
+- Frontend + Backend integration  
+- REST APIs  
+- Hosting on Render & GitHub Pages  
+- Version Control with Git
+
+---
+
+## 🏗️ Projects
+
+### 📝 BlogCraft (Full-Stack Blog App)
+Create, read, update, and delete blog posts with a neat EJS UI and PostgreSQL backend.
+
+**Tech:** Node.js, Express, EJS, PostgreSQL  
+🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/BlogCraft)
+
+---
+
+### 🎮 Tic Tac Toe (Frontend Game)
+A simple, two-player game with sound effects and win/draw detection. Built entirely using vanilla JS.
+
+**Tech:** HTML, CSS, JavaScript  
+🌐 [Live Demo](https://mythili-velivelli.github.io/TicTacToe)  
+🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/TicTacToe)
+
+---
+
+<!--### 🌦️ Live Weather App
+Search for any city and get real-time weather data with icons and temperature.
+
+**Tech:** HTML, CSS, JavaScript, OpenWeather API  
+🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/WeatherApp)
+
+---
+
+### 💰 Expense Tracker
+Track income and expenses with a clean, responsive UI.
+
+**Tech:** HTML, CSS, JavaScript  
+🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/ExpenseTracker)-->
+
+---
+
+## 📬 Let’s Connect!
+
+- 🔗 GitHub: [Mythili-Velivelli](https://github.com/Mythili-Velivelli)  
+- 💼 LinkedIn: [Mythili Velivelli](https://www.linkedin.com/in/mythili-velivelli)  
+- 📧 Email: mythilivelivelli@example.com *(update with your real email if you want)*
+
+---
+
+> “I believe in consistent growth — even a small step every day leads to big change.”
+
+---
+
