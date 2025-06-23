@@ -37,13 +37,13 @@ A browser-based Tic Tac Toe game with sound effects and win/draw detection.
 **Tech Stack:** HTML, CSS, JavaScript  
 🌐 [Live Demo](https://mythili-velivelli.github.io/TicTacToe) | 🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/TicTacToe)
 
-<!--
+
 🌦️ **Live Weather App**  
 Search for any city and get real-time weather data with icons and temperature.  
 Uses OpenWeatherMap API.  
 Built using HTML, CSS, and JavaScript.  
-🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/WeatherApp)
-
+🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/Atmos)
+<!--
 💰 **Expense Tracker**  
 Track income and expenses with simple UI and color-coded entries.  
 Built using HTML, CSS, and JavaScript.  
@@ -59,7 +59,6 @@ Built using HTML, CSS, and JavaScript.
 
 ## 📬 Let’s Connect!
 
-- 🔗 **GitHub**: [Mythili-Velivelli](https://github.com/Mythili-Velivelli)  
 - 💼 **LinkedIn**: [Mythili Velivelli](https://linkedin.com/in/velivelli-mythili)  
 - 📧 **Email**: velivellimythili851@gmail.com
 
