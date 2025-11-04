@@ -30,7 +30,7 @@ A full-stack blog app with CRUD operations and a clean EJS-based UI.
 🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/BlogCraft)
 
 🎮 **Mini Game Hub**  
-A simple and elegant Game Hub including ⭕ Tic Tac Toe and 🐍 Snake game
+A simple and elegant Game Hub including ⭕ Tic Tac Toe and 🐍 Snake game.
 **Tech Stack:** HTML, CSS, and JavaScript
 🔗 [live](https://github.com/Mythili-Velivelli/MiniGameHub)
 
