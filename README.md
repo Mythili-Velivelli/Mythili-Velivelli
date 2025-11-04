@@ -15,14 +15,11 @@ This README is a quick snapshot of my skills, projects, and interests!
 
 ## 🚀 Skills & Interests
 
-💻 **Programming Languages**: Java (Advanced), Python, C++, JavaScript, HTML, CSS  
-📚 **Frameworks/Libraries**: Node.js, Express.js, React, EJS, jQuery, Bootstrap  
+💻 **Programming Languages**: Core Java, C++, JavaScript, HTML, CSS  
+📚 **Frameworks/Libraries**: Node.js, Express.js, React, Bootstrap  
 🗄️ **Databases**: PostgreSQL  
-🧩 **Data Structures & Algorithms**: Practicing through GeeksforGeeks DSA course  
-🛠️ **Developer Tools**: Git & GitHub, VS Code, Postman, Render  
-🎓 **Academic Coursework**: Data Structures, Operating Systems, DBMS, OOP  
-🎯 **Interests**: Web Development, UI/UX, Open-Source Learning
-
+🛠️ **Developer Tools**: Git & GitHub, VS Code, Postman  
+🎓 **Academic Coursework**: Data Structures, DBMS, OOP  
 ---
 
 ## 🏆 Projects
@@ -32,10 +29,17 @@ A full-stack blog app with CRUD operations and a clean EJS-based UI.
 **Tech Stack:** Node.js, Express.js, EJS, CSS, PostgreSQL  
 🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/BlogCraft)
 
+🎮 **Mini Game Hub**  
+A simple and elegant Game Hub including ⭕ Tic Tac Toe and 🐍 Snake game
+**Tech Stack:** HTML, CSS, and JavaScript
+🔗 [live](https://github.com/Mythili-Velivelli/MiniGameHub)
+
+<!--
 🎮 **Tic Tac Toe – 2 Player Game**  
 A browser-based Tic Tac Toe game with sound effects and win/draw detection.  
 **Tech Stack:** HTML, CSS, JavaScript  
 🌐 [Live Demo](https://mythili-velivelli.github.io/TicTacToe) | 🔗 [GitHub Repo](https://github.com/Mythili-Velivelli/TicTacToe)
+-->
 
 
 🌦️ **Live Weather App**  
